@@ -1,0 +1,37 @@
+[
+  {
+    "uuid": "Customer1",
+    "name": "Gus",
+    "surname": "Stew"
+  },
+  {
+    "uuid": "Customer2",
+    "name": "Rene",
+    "surname": "Bergo"
+  },
+  {
+    "uuid": "Customer4",
+    "name": "Gus",
+    "surname": "Friguis"
+  },
+  {
+    "uuid": "Customer5",
+    "name": "Helel",
+    "surname": "Crow"
+  },
+  {
+    "uuid": "Customer100",
+    "name": "Gus",
+    "surname": "Friguis"
+  },
+  {
+    "uuid": "Customer7",
+    "name": "Bernard",
+    "surname": "Renault"
+  },
+  {
+    "uuid": "Customer6",
+    "name": "Freddi",
+    "surname": "Freak"
+  }
+]
