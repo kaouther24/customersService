@@ -1,17 +1,6 @@
 # customersService
 
 The `customersService` is a Spring Boot microservice that manages customer data and provides functionalities for creating new customers, retrieving customer details, and handling customer-related operations
-## Features
-
-
-Here's a similar README file for the customersService, following the same format and style as the previous ones.
-
-README for customersService
-markdown
-Copier le code
-# customersService
-
-The `customersService` is a Spring Boot microservice that manages customer data and provides functionalities for creating new customers, retrieving customer details, and handling customer-related operations.
 
 ## Features
 
